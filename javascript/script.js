@@ -109,7 +109,3 @@ document.getElementById("search-form").addEventListener("submit", function (i) {
 
   funcLoadImages(searchKeyword)
 })
-
-//problema con la seconda parte, quando cerco di andare su questo link: https://api.pexels.com/v1/photos/
-//la risposta è sempre questa: {"status":401,"code":"Unauthorized"}
-//stanotte indagherò anche su questo
